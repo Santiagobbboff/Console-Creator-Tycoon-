@@ -5,4 +5,6 @@ Arte e Design: Daniel
 
 Ideas e Programação: Santiago e Roman
 
-Musica: Santiago??
+Musica: ???
+
+Obrigados especiais a: Youtube, Google e Github.
