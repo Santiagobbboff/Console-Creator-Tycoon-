@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class definicoes : MonoBehaviour
+public class entrarnasdefinicoes : MonoBehaviour
 {
 
-    public void entrarnasdefinicoes()
+    public void definicoes()
     {
         SceneManager.LoadScene(4);
     }
